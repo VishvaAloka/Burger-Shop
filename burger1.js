@@ -1,1 +1,1 @@
-abcde
+console.log("Please, Subscribe")
